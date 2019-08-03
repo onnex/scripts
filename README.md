@@ -15,9 +15,9 @@ The scripts are primarily made for myself when I have had a specific need for on
 
 ### Awk
 
-- [recgrep.awk](../recgrep.awk) - Filter for grep's recursive output
+- [recgrep.awk](./recgrep.awk) - Filter for grep's recursive output
 
 ### Shell
 
-- [scd.sh](../scd.sh) - cd to a path with spaces in it
-- [scp_to_all.sh](../scp_to_all.sh) - Copy files to multiple machines at the same time via scp
+- [scd.sh](./scd.sh) - cd to a path with spaces in it
+- [scp_to_all.sh](./scp_to_all.sh) - Copy files to multiple machines at the same time via scp
