@@ -19,5 +19,7 @@ The scripts are primarily made for myself when I have had a specific need for on
 
 ### Shell
 
+- [my_ip.sh](./my_ip.sh) - Echo current ip address of the given or the default network device
 - [scd.sh](./scd.sh) - cd to a path with spaces in it
 - [scp_to_all.sh](./scp_to_all.sh) - Copy files to multiple machines at the same time via scp
+
